@@ -1,11 +1,4 @@
-/******************************************************************
-  Template Name: Dreams
-  Description: Dreams wedding template
-  Author: Colorib
-  Author URI: https://colorlib.com/
-  Version: 1.0
-  Created: Colorib
-******************************************************************/
+
 /*------------------------------------------------------------------
 [Table of contents]
 
@@ -795,6 +788,7 @@ ol {
   background: url(../img/blog/blog-1.jpg);
   background-size: cover;
 }
+
 
 .latest__slider.owl-carousel .owl-item .col-lg-4 {
   max-width: 100%;
